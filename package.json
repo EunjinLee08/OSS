@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "tldts": "^7.0.10",
+    "whois-json": "^2.0.4"
+  }
+}
